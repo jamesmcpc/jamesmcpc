@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm James! 👋</h1>
 
-<!--
-**JamesyIO/JamesyIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://avatars.githubusercontent.com/u/69175210?s=400&u=7f110eafb87a2667621582c7ab18636793f14fe5&v=4)
 
-Here are some ideas to get you started:
+I'm a passionate software developer from France, with a love for creating and building projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages
+![Programming languages](https://skillicons.dev/icons?i=java,kotlin,golang,js,typescript,python,bash)
+
+## Databases
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra)
+
+## Tools
+![Tools](https://skillicons.dev/icons?i=idea,vscode,gradle,maven,vite,git,github,gitlab,docker,kubernetes,grafana,nginx,cloudflare)
+
+## Learning
+![Learning](https://skillicons.dev/icons?i=rust,zig,svelte,tailwind,tauri,wasm)
+
+## Get in touch
+Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to talk.
+- Twitter: [@JamesMCPC](https://twitter.com/JamesMCPC)
+- Discord: @jamesmcpc
