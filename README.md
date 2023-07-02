@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm James! 👋</h1>
 
-![Profile Banner](https://avatars.githubusercontent.com/u/69175210?s=400&u=7f110eafb87a2667621582c7ab18636793f14fe5&v=4)
-
 I'm a passionate software developer from France, with a love for creating and building projects. 
 
 ## Programming languages
