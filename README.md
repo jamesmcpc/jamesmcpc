@@ -6,7 +6,7 @@ I'm a passionate software developer from France, with a love for creating and bu
 ![Programming languages](https://skillicons.dev/icons?i=java,kotlin,rust,golang,js,typescript,python,bash)
 
 ## Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra)
+![Databases](https://skillicons.dev/icons?i=postgres,redis,kafka,mongodb,cassandra)
 
 ## Tools
 ![Tools](https://skillicons.dev/icons?i=idea,vscode,gradle,maven,vite,git,github,gitlab,docker,kubernetes,grafana,nginx,cloudflare)
